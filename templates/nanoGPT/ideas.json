@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "core_reasoning",
+        "Title": "Core Reasoning: Embedding Reasoning Capability Within the Model's Generation Process",
+        "Experiment": "Develop a mechanism where reasoning is embedded directly into the model's core generation process. The model should perform reasoning without relying on chain-of-thoughts prompting, achieving similar results inherently while generating the next tokens.",
+        "Interestingness": 9,
+        "Feasibility": 7,
+        "Novelty": 9,
+        "novel": true
+    }
+]
